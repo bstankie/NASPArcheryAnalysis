@@ -12,7 +12,11 @@ Analysis of NASP Archery School Scores
 
 # Notes
 
-1. No Upstream Branch
-    * Generate a Github Token
-    * Github Command Line Password: Use Token
+## Setting up Github
+1. Create a github token.
+2. Create a branch
+
+    1. No Upstream Branch
+        * Generate a Github Token
+        * Github Command Line Password: Use Token
     
