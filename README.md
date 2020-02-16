@@ -10,3 +10,9 @@ Analysis of NASP Archery School Scores
 2. Dockerize project
 1. [Build a Serverless Web Application](https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 
+# Notes
+
+1. No Upstream Branch
+    * Generate a Github Token
+    * Github Command Line Password: Use Token
+    
