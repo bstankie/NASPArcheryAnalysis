@@ -19,4 +19,9 @@ Analysis of NASP Archery School Scores
     1. No Upstream Branch
         * Generate a Github Token
         * Github Command Line Password: Use Token
+3. Reading in S3 bucket
+    1. [StackOverflow Read S3](https://stackoverflow.com/questions/48264656/load-s3-data-into-aws-sagemaker-notebook)
+    2. [AWS Tutorial](https://aws.amazon.com/getting-started/tutorials/build-train-deploy-machine-learning-model-sagemaker/)    
+    e. s3fs
+        * pip install s3fs from within the jupyter notebook.
     
